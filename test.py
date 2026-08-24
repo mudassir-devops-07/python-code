@@ -3,9 +3,9 @@
 students = [
     {"name": "mumtahin", "math": 85, "science": 90, "english": 78},
     {"name": "shahid", "math": 92, "science": 88, "english": 95},
-    {"name": "jahid", "math": 70, "science": 75, "english": 80},
+    {"name": "noor", "math": 70, "science": 75, "english": 80},
     {"name": "mudassir", "math": 98, "science": 94, "english": 91},
-    {"name": "noor", "math": 65, "science": 72, "english": 68}
+    {"name": "jahid", "math": 65, "science": 72, "english": 68}
 ]
 
 
